@@ -51,8 +51,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/guptaSoujanya/guptaSoujanya/output/snake.svg" alt="Snake animation" />
-
-###
