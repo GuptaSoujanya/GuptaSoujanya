@@ -1,12 +1,12 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,35&height=220&section=header&text=Soujanya%20Gupta&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20AI%2FML%20Systems%20Engineer%20%7C%20LLM%20Infrastructure%20%26%20Evaluation&descFontSize=19&descAlignY=60" width="100%" alt="Soujanya Gupta Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,35&height=220&section=header&text=Soujanya%20Gupta&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20AI%2FML%20Systems%20Engineer%20%7C%20LLM%20Infrastructure%20and%20Evaluation&descFontSize=19&descAlignY=60" width="100%" alt="Soujanya Gupta Header" />
 </p>
 
 <!-- Dynamic Animated Typing SVG -->
 <p align="center">
   <a href="https://github.com/GuptaSoujanya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Senior+AI%2FML+Systems+%26+Evaluation+Engineer;Building+Extensible+LLM+Evaluation+Harnesses;Low-Latency+Inference+Profiling+%26+vLLM+Serving;Author+of+claude-eval-mcp+%26+Developer+Tooling;Optimizing+Speculative+Decoding+%26+Prefix+Caching" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Senior+AI%2FML+Systems+and+Evaluation+Engineer;Building+Extensible+LLM+Evaluation+Harnesses;Low-Latency+Inference+Profiling+and+vLLM+Serving;Author+of+claude-eval-mcp+and+Developer+Tooling;Optimizing+Speculative+Decoding+and+Prefix+Caching" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <div align="center">
 <table border="0">
   <tr>
-    <!-- <td align="center" width="20%">
+    <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="90" alt="Pull Shark Gold" />
       <br/>
       <b>Pull Shark</b>
@@ -43,7 +43,7 @@
       <b>Galaxy Brain</b>
       <br/>
       <img src="https://img.shields.io/badge/Tier-Gold%20(16%20Answers)-FFD700?style=flat-square&logo=github" alt="Gold Tier" />
-    </td> -->
+    </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" />
       <br/>
