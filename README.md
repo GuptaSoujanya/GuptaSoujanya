@@ -1,21 +1,72 @@
-<div align="center">
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,35&height=220&section=header&text=Soujanya%20Gupta&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20AI%2FML%20Systems%20Engineer%20%7C%20LLM%20Infrastructure%20%26%20Evaluation&descFontSize=19&descAlignY=60" width="100%" alt="Soujanya Gupta Header" />
+</p>
 
-# Soujanya Gupta
-
-### **Senior AI/ML Systems Engineer · LLM Infrastructure & Evaluation**  
-**Foundation Model Benchmarking · Low-Latency Serving · Developer Tooling**
-
-Gurugram / Remote &nbsp;•&nbsp; [semrisoujanya2003@gmail.com](mailto:semrisoujanya2003@gmail.com) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/soujanya-gupta-0224621ba/) &nbsp;•&nbsp; [GitHub](https://github.com/GuptaSoujanya)
+<!-- Dynamic Animated Typing SVG -->
+<p align="center">
+  <a href="https://github.com/GuptaSoujanya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Senior+AI%2FML+Systems+%26+Evaluation+Engineer;Building+Extensible+LLM+Evaluation+Harnesses;Low-Latency+Inference+Profiling+%26+vLLM+Serving;Author+of+claude-eval-mcp+%26+Developer+Tooling;Optimizing+Speculative+Decoding+%26+Prefix+Caching" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![vLLM](https://img.shields.io/badge/vLLM-Accelerated%20Inference-412991?style=flat-square)](https://vllm.ai)
-[![CUDA](https://img.shields.io/badge/CUDA-Systems-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
-[![Anthropic MCP](https://img.shields.io/badge/Anthropic%20MCP-Protocol-D97706?style=flat-square)](https://modelcontextprotocol.io)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+<!-- Real-Time Status & Location Badges -->
+<p align="center">
+  <a href="https://github.com/GuptaSoujanya"><img src="https://img.shields.io/badge/LOCATION-Gurugram%2C%20India%20%7C%20Remote-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
+  &nbsp;
+  <a href="mailto:semrisoujanya2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-semrisoujanya2003%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/soujanya-gupta-0224621ba/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=GuptaSoujanya&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
+---
+
+### 🏆 GitHub Profile Achievements · Gold Tier
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="90" alt="Pull Shark Gold" />
+      <br/>
+      <b>Pull Shark</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Tier-Gold%20(128%2B%20PRs)-FFD700?style=flat-square&logo=github" alt="Gold Tier" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="90" alt="Galaxy Brain Gold" />
+      <br/>
+      <b>Galaxy Brain</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Tier-Gold%20(16%20Answers)-FFD700?style=flat-square&logo=github" alt="Gold Tier" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" />
+      <br/>
+      <b>Quickdraw</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Badge-Unlocked-00F2FE?style=flat-square&logo=github" alt="Unlocked" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" />
+      <br/>
+      <b>YOLO</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Badge-Unlocked-39D353?style=flat-square&logo=github" alt="Unlocked" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" />
+      <br/>
+      <b>Pair Extraordinaire</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Badge-Unlocked-A371F7?style=flat-square&logo=github" alt="Unlocked" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -28,10 +79,57 @@ I specialize in building production-grade evaluation harnesses, microsecond-reso
 
 ### ⚙️ Core Engineering Pillars
 
-- **🔬 Foundation Model Evaluation:** Scalable benchmark harnesses evaluating open-source LLMs across multi-step reasoning (GSM8K, MATH), competitive programming ($Pass@k$ sandboxing), and multi-modal comprehension (ChartQA, DocVQA, spatial $IoU$).
-- **⚡ Low-Latency Inference Systems:** Microsecond-resolution telemetry for streaming generation, KV-cache memory pressure tracking, and analytical/Monte Carlo speedup modeling for speculative decoding (Leviathan et al.).
-- **🛡️ Safety & Alignment Guardrails:** Delimiter hijacking prevention, indirect prompt injection defense, Attack Success Rate (ASR) benchmarking, and automated Evol-Instruct synthetic dataset distillation.
-- **🔌 Developer Ecosystem & Plugins:** First-class IDE integrations including Anthropic Model Context Protocol (MCP) servers, VS Code extension dashboards, Neovim telemetry plugins, and LangChain/LlamaIndex callback tracers.
+```
+┌──────────────────────────────────────┐    ┌──────────────────────────────────────┐
+│  🔬 FOUNDATION MODEL BENCHMARKING    │    │  ⚡ LOW-LATENCY INFERENCE SYSTEMS    │
+│  • Extensible harness architecture   │    │  • Microsecond TTFT & ITL profiling  │
+│  • GSM8K, MATH & MMLU-Pro suites     │    │  • KV-cache memory pressure tracking │
+│  • HumanEval unbiased Pass@k         │    │  • Leviathan speculative decoding    │
+│  • Multi-modal ChartQA & DocVQA      │    │  • vLLM & chunked prefill telemetry  │
+└──────────────────────────────────────┘    └──────────────────────────────────────┘
+┌──────────────────────────────────────┐    ┌──────────────────────────────────────┐
+│  🛡️ SAFETY & ALIGNMENT GUARDRAILS    │    │  🔌 DEVELOPER PLUGINS & ECOSYSTEM   │
+│  • OWASP LLM01 injection defense     │    │  • Anthropic Model Context Protocol  │
+│  • Delimiter hijacking sanitization  │    │  • VS Code Webview dashboard runner  │
+│  • Evol-Instruct prompt mutators     │    │  • Asynchronous Neovim Lua plugin    │
+│  • Self-BLEU diversity quality gates │    │  • LangChain & LlamaIndex callbacks  │
+└──────────────────────────────────────┘    └──────────────────────────────────────┘
+```
+
+---
+
+### 🛠️ Technical Competencies
+
+<p align="center">
+  <b>Languages & Systems Programming</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>AI/ML Serving & Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-412991?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT--LLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>Protocols & Developer Tooling</b><br/>
+  <img src="https://img.shields.io/badge/Anthropic_MCP-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code_API-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim_0.9+-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
@@ -70,17 +168,15 @@ Empirical evaluation results produced using [`llm-eval-harness`](https://github.
 
 ---
 
-### 🛠️ Technical Competencies
-
-- **Languages:** Python, C++, CUDA, TypeScript, Lua, SQL, Bash
-- **ML & Serving Frameworks:** PyTorch, vLLM, TensorRT-LLM, Hugging Face Transformers, DeepSpeed, llama.cpp, Ollama
-- **Evaluation Protocols:** GSM8K, MATH, MMLU / MMLU-Pro, HumanEval, SWE-bench, ChartQA, DocVQA, Ragas, TruLens
-- **Systems & Tooling:** Anthropic Model Context Protocol (MCP), VS Code Extension API, Neovim API, Docker, Linux, Git, GitHub Actions
-
----
-
 ### 📬 Get in Touch
 
 - **Email:** [semrisoujanya2003@gmail.com](mailto:semrisoujanya2003@gmail.com)
 - **LinkedIn:** [linkedin.com/in/soujanya-gupta-0224621ba](https://www.linkedin.com/in/soujanya-gupta-0224621ba/)
 - **GitHub:** [github.com/GuptaSoujanya](https://github.com/GuptaSoujanya)
+
+<br/>
+
+<!-- Animated Waving Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,35&height=120&section=footer" width="100%" alt="Soujanya Gupta Footer" />
+</p>
