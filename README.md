@@ -82,12 +82,6 @@ Empirical evaluation results produced using [`llm-eval-harness`](https://github.
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuptaSoujanya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Soujanya's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaSoujanya&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaSoujanya&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
