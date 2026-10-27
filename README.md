@@ -1,7 +1,7 @@
 # Soujanya Gupta
 
 **Senior AI/ML Systems Engineer · LLM Infrastructure & Evaluation**  
-San Francisco Bay Area / Remote · [soujanya.gupta@ethara.ai](mailto:soujanya.gupta@ethara.ai) · [LinkedIn](https://www.linkedin.com/in/soujanya-gupta-0224621ba/) · [GitHub](https://github.com/GuptaSoujanya)
+Gurugram / Remote · [soujanya.gupta@ethara.ai](mailto:soujanya.gupta@ethara.ai) · [LinkedIn](https://www.linkedin.com/in/soujanya-gupta-0224621ba/) · [GitHub](https://github.com/GuptaSoujanya)
 
 ---
 
@@ -51,6 +51,6 @@ I specialize in building production-grade evaluation harnesses, low-latency LLM 
 
 ### Contact & Links
 
-- **Email:** [soujanya.gupta@ethara.ai](mailto:soujanya.gupta@ethara.ai)
+- **Email:** [semrisoujanya2003@gmail.com](mailto:semrisoujanya2003@gmail.com)
 - **LinkedIn:** [linkedin.com/in/soujanya-gupta-0224621ba](https://www.linkedin.com/in/soujanya-gupta-0224621ba/)
 - **GitHub:** [github.com/GuptaSoujanya](https://github.com/GuptaSoujanya)
