@@ -79,14 +79,6 @@ Empirical evaluation results produced using [`llm-eval-harness`](https://github.
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaSoujanya&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-</div>
-
----
-
 ### 📬 Get in Touch
 
 - **Email:** [semrisoujanya2003@gmail.com](mailto:semrisoujanya2003@gmail.com)
