@@ -1,7 +1,7 @@
 # Soujanya Gupta
 
 **Senior AI/ML Systems Engineer · LLM Infrastructure & Evaluation**  
-Gurugram / Remote · [soujanya.gupta@ethara.ai](mailto:soujanya.gupta@ethara.ai) · [LinkedIn](https://www.linkedin.com/in/soujanya-gupta-0224621ba/) · [GitHub](https://github.com/GuptaSoujanya)
+Gurugram / Remote · [semrisoujanya2003@gmail.com](mailto:semrisoujanya2003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/soujanya-gupta-0224621ba/) · [GitHub](https://github.com/GuptaSoujanya)
 
 ---
 
