@@ -25,7 +25,7 @@
 
 ---
 
-### 🏆 GitHub Profile Achievements · Gold Tier
+### 🏆 GitHub Profile Achievements
 
 <div align="center">
 <table border="0">
