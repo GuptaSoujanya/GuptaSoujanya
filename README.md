@@ -36,14 +36,14 @@
       <b>Pull Shark</b>
       <br/>
       <img src="https://img.shields.io/badge/Tier-Gold%20(128%2B%20PRs)-FFD700?style=flat-square&logo=github" alt="Gold Tier" />
-    </td>
+    </td> -->
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="90" alt="Galaxy Brain Gold" />
       <br/>
       <b>Galaxy Brain</b>
       <br/>
       <img src="https://img.shields.io/badge/Tier-Gold%20(16%20Answers)-FFD700?style=flat-square&logo=github" alt="Gold Tier" />
-    </td> -->
+    </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" />
       <br/>
