@@ -23,52 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=GuptaSoujanya&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
-
-<!-- <div align="center">
-<table border="0">
-  <tr>
-    <!-- <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="90" alt="Pull Shark Gold" />
-      <br/>
-      <b>Pull Shark</b>
-      <br/>
-      <img src="https://img.shields.io/badge/Tier-Gold%20(128%2B%20PRs)-FFD700?style=flat-square&logo=github" alt="Gold Tier" /> -->
-    </td> -->
-    <!-- <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="90" alt="Galaxy Brain Gold" />
-      <br/>
-      <b>Galaxy Brain</b>
-      <br/>
-      <img src="https://img.shields.io/badge/Tier-Gold%20(16%20Answers)-FFD700?style=flat-square&logo=github" alt="Gold Tier" />
-    </td> -->
-    <!-- <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" />
-      <br/>
-      <b>Quickdraw</b>
-      <br/>
-      <img src="https://img.shields.io/badge/Badge-Unlocked-00F2FE?style=flat-square&logo=github" alt="Unlocked" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" />
-      <br/>
-      <b>YOLO</b>
-      <br/>
-      <img src="https://img.shields.io/badge/Badge-Unlocked-39D353?style=flat-square&logo=github" alt="Unlocked" />
-    </td>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" />
-      <br/>
-      <b>Pair Extraordinaire</b>
-      <br/>
-      <img src="https://img.shields.io/badge/Badge-Unlocked-A371F7?style=flat-square&logo=github" alt="Unlocked" />
-    </td>
-  </tr>
-</table>
-</div> -->
-
----
-
 ### 🔭 About Me
 
 I specialize in building production-grade evaluation harnesses, microsecond-resolution inference profilers, and developer tooling for open-source foundation models. My engineering focuses on closing the gap between raw model capabilities and deployed system reliability—measuring multi-step mathematical reasoning, mitigating hallucinations in agentic RAG architectures, and profiling streaming latency (Time-To-First-Token and Inter-Token Latency) across high-performance compute clusters.
