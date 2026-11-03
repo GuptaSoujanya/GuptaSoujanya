@@ -25,7 +25,7 @@
 
 ### 🔭 About Me
 
-I specialize in building production-grade evaluation harnesses, microsecond-resolution inference profilers, and developer tooling for open-source foundation models. My engineering focuses on closing the gap between raw model capabilities and deployed system reliability—measuring multi-step mathematical reasoning, mitigating hallucinations in agentic RAG architectures, and profiling streaming latency (Time-To-First-Token and Inter-Token Latency) across high-performance compute clusters.
+I specialize in building production-grade evaluation harnesses, microsecond-resolution inference profilers, and developer tooling for open-source foundation models. My engineering focuses on closing the gap between raw model capabilities and deployed system reliability measuring multi step mathematical reasoning, mitigating hallucinations in agentic RAG architectures, and profiling streaming latency (Time-To-First-Token and Inter-Token Latency) across high-performance compute clusters.
 
 ---
 
